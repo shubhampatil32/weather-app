@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 document.addEventListener("DOMContentLoaded", () => {
   const cityInput = document.getElementById("city-input");
   const getWeatherBtn = document.getElementById("get-weather-btn");
@@ -116,4 +116,4 @@ document.addEventListener("DOMContentLoaded", () => {
     errorMessage.classList.add("hidden");
   }
 });
->>>>>>> f2f0ce940492b2c7be680188c24006788fb6007c
+
